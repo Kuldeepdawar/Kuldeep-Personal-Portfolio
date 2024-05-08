@@ -35,28 +35,20 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "INTERNSHIP",
-    location: "TCIL-IT, Chandigarh",
+    title: "Full-Stack developer",
+    location: "BatteryMate - Sydney",
     description:
-      "After graduated, I found an internship for 6 months then learned all web development concepts in depth.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2015",
-  },
-  {
-    title: "Front-End Developer",
-    location: "ARC EDUCATION",
-    description:
-      "I worked as a front-end developer for 1 years 5 months. I also upskilled to the full stack knowledge based on client requirments.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2016 - 2017",
-  },
-  {
-    title: "Front-end Developer",
-    location: "OSPMC",
-    description:
-      "I worked as a Front-end developer in the medical Industry. My stack includes React, JavaScript, TypeScript, Tailwind, MongoDB and MySQL",
+      "I am working as a Full-stack developer in BatteryMate. My stack includes ASP.Net Core (C#), React, JavaScript, TypeScript, Node.js Tailwind, Prisma Next Js and MongoDB, MySQL, Docker",
     icon: React.createElement(FaReact),
-    date: "2017 - 2018",
+    date: "2024-Present",
+  },
+  {
+    title: "React Full-Stack developer",
+    location: "Accenture - Australia",
+    description:
+      "I worked as a React Full-stack developer in Accenture for 2 years. My stack includes React, JavaScript, TypeScript, Node.js Tailwind, Prisma Next Js and MongoDB, MySQL, Docker",
+    icon: React.createElement(FaReact),
+    date: "2021-2023",
   },
   {
     title: "React Full-Stack Developer",
@@ -67,12 +59,28 @@ export const experiencesData = [
     date: "2020-2021",
   },
   {
-    title: "React Full-Stack developer",
-    location: "Accenture - Melbourne",
+    title: "Front-end Developer",
+    location: "OSPMC",
     description:
-      "I worked as a React Full-stack developer in Accenture for 2 years. My stack includes React, JavaScript, TypeScript, Node.js Tailwind, Prisma Next Js and MongoDB, MySQL, Docker",
+      "I worked as a Front-end developer in the medical Industry. My stack includes React, JavaScript, TypeScript, Tailwind, MongoDB and MySQL",
     icon: React.createElement(FaReact),
-    date: "2021-2023",
+    date: "2017 - 2018",
+  },
+  {
+    title: "Front-End Developer",
+    location: "ARC EDUCATION",
+    description:
+      "I worked as a front-end developer for 1 years 5 months. I also upskilled to the full stack knowledge based on client requirments.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2016 - 2017",
+  },
+  {
+    title: "INTERNSHIP",
+    location: "TCIL-IT, Chandigarh",
+    description:
+      "After graduated, I found an internship for 6 months then learned all web development concepts in depth.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2015",
   },
 ] as const;
 
