@@ -28,11 +28,12 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, MongoDB and PostgreSQL.{" "}
+          React.js, Next.js, ASP.Net Core(C#), Node.js, MongoDB and PostgreSQL,
+          AWS, Azure Cloud.{" "}
         </span>
         I am always looking to learn new technologies. I am currently looking
         for a <span className="font-medium">full-time position</span> as a{" "}
-        <span className="font-bold"> software developer.</span>
+        <span className="font-bold"> Software Developer.</span>
       </p>
     </motion.section>
   );
