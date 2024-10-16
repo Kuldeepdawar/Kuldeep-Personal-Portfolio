@@ -19,21 +19,27 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Computer Science</span>, I decided to
-        pursue my passion for programming. I enrolled in a coding bootcamp and
-        learned <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        I am a Full Stack Developer with expertise in{" "}
         <span className="font-medium">
-          React.js, Next.js, ASP.Net Core(C#), Node.js, MongoDB and PostgreSQL,
-          AWS, Azure Cloud.{" "}
+          React.js, JavaScript/TypeScript, Next.js, Node.js, MongoDB,
+          PostgreSQL, AWS, and Azure Cloud
         </span>
-        I am always looking to learn new technologies. I am currently looking
-        for a <span className="font-medium">full-time position</span> as a{" "}
-        <span className="font-bold"> Software Developer.</span>
+        , With a degree in Computer Science and hands-on experience from a
+        coding bootcamp, as well as projects with{" "}
+        <span className="font-medium">
+          Accenture in Sydney Transport and Samsung,
+        </span>
+        . <span className="italic">I’m passionate about </span> building
+        scalable, efficient{" "}
+        <span className="underline"> web applications.</span> I enjoy solving
+        complex challenges and working across the full stack to deliver
+        impactful solutions.{" "}
+        <span className="font-medium">
+          My adaptability and commitment to staying current with the latest
+          technologies enable me to thrive in fast-paced environments.{" "}
+        </span>
+        I am seeking a <span className="font-medium">React Developer role</span>{" "}
+        to apply <span className="font-bold"> my skills and grow further.</span>
       </p>
     </motion.section>
   );

@@ -63,15 +63,14 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Kuldeep Singh.</span> I'm a{" "}
-        <span className="font-bold">Full Stack developer</span> with{" "}
-        <span className="font-bold">4+ years</span> of experience. I worked for{" "}
+        <span className="font-bold">React Full Stack developer</span> with{" "}
+        <span className="font-bold">5+ years</span> of experience. I worked for{" "}
         <span className="font-bold">2 years</span> with{" "}
         <span className="font-bold">Accenture Australia</span>
-        <span className="italic"> as a React Full Stack Developer</span>. My
+        <span className="italic"> as a Advanced Application Developer</span>. My
         focus is{" "}
         <span className="underline">
-          React (React.js, JavaScript/TypeScript, ASP.Net Core (C#), Node.js,
-          AWS, Azure Cloud)
+          (React.js, JavaScript/TypeScript, Redux, Node.js, AWS, Azure Cloud)
         </span>
         .
       </motion.h1>
@@ -98,7 +97,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/Kuldeep Singh_BatteryMate_Full_Stack_Developer.docx"
+          href="/Kuldeep_Singh_CV_updated .docx"
           download
         >
           Download CV{" "}

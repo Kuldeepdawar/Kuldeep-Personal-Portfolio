@@ -35,34 +35,34 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Full-Stack developer",
+    title: "React Full-Stack developer",
     location: "BatteryMate - Sydney",
     description:
-      "I am working as a Full-stack developer in BatteryMate. My stack includes ASP.Net Core (C#), React, JavaScript, TypeScript, Node.js Tailwind, Prisma Next Js and MongoDB, MySQL, Docker",
+      "API Development: Designed and implemented scalable RESTful APIs, using TypeScript, JavaScript (ES6+), and AWS Lambda to handle product data, user management, and order processing.",
     icon: React.createElement(FaReact),
-    date: "2024-Present",
+    date: "2023-2024",
   },
   {
-    title: "React Full-Stack developer",
+    title: "Advanced App Engineering Analyst",
     location: "Accenture - Australia",
     description:
-      "I worked as a React Full-stack developer in Accenture for 2 years. My stack includes React, JavaScript, TypeScript, Node.js Tailwind, Prisma Next Js and MongoDB, MySQL, Docker",
+      "I worked as a React Full Stack Developer at Accenture for 2 years, handling SCATS and Samsung client projects using React, JavaScript, TypeScript, Node.js, Tailwind, Prisma, Next.js, MongoDB, MySQL, and Docker.",
     icon: React.createElement(FaReact),
     date: "2021-2023",
   },
   {
-    title: "React Full-Stack Developer",
+    title: "React Developer",
     location: "Reesby - Melbourne",
     description:
-      "I worked as a React full-stack developer.I have to monitor, test application performance and collaborate with developers on solution implementation.",
+      "Design and implement a dynamic dashboard for the CRM application using HTML5, CSS3, React, JavaScript/TypeScript and Bootstrap.",
     icon: React.createElement(FaReact),
     date: "2020-2021",
   },
   {
-    title: "Front-end Developer",
+    title: "Web Developer",
     location: "OSPMC",
     description:
-      "I worked as a Front-end developer in the medical Industry. My stack includes React, JavaScript, TypeScript, Tailwind, MongoDB and MySQL",
+      "Designed and built applications tailored to meet specific business requirements, ensuring alignment with project goals and client needs.",
     icon: React.createElement(FaReact),
     date: "2017 - 2018",
   },
@@ -70,7 +70,7 @@ export const experiencesData = [
     title: "Front-End Developer",
     location: "ARC EDUCATION",
     description:
-      "I worked as a front-end developer for 1 years 5 months. I also upskilled to the full stack knowledge based on client requirments.",
+      "Implemented UI/UX designs with precision, ensuring alignment with design specifications and enhancing the visual appeal and usability of applications.",
     icon: React.createElement(CgWorkAlt),
     date: "2016 - 2017",
   },
@@ -78,7 +78,7 @@ export const experiencesData = [
     title: "INTERNSHIP",
     location: "TCIL-IT, Chandigarh",
     description:
-      "After graduated, I found an internship for 6 months then learned all web development concepts in depth.",
+      "After graduating, I completed a 6-month internship where I gained hands-on experience and deepened my understanding of core web development concepts.",
     icon: React.createElement(LuGraduationCap),
     date: "2015",
   },
@@ -88,7 +88,7 @@ export const projectsData = [
   {
     title: "SAMSUNG",
     description:
-      "I worked as a React full-stack developer on this project for 1 year. I have used Redux Toolkit to make better code in Samsung ECommerce Project.",
+      "Developed user interfaces using React, Redux and TypeScript, creating a responsive and interactive shopping experience. Leveraged JavaScript (ES6+).",
     tags: ["React", "Node.js", "MongoDB", "Tailwind", "Redux Toolkit"],
     // imageUrl: corpcommentImg,
     imageUrl:
@@ -97,7 +97,7 @@ export const projectsData = [
   {
     title: "SCATS",
     description:
-      "I worked as a React full-stack developer in this project. It has features like Client/Server Side Rendering, authenitication, Restful API and pagination etc.",
+      "I worked as a Advanced App developer in this project. It has features like Client/Server Side Rendering, authenitication, Restful API and pagination etc.",
     tags: [
       "React",
       "TypeScript",
@@ -114,21 +114,21 @@ export const projectsData = [
   {
     title: "ANZK",
     description:
-      "I worked as a React full-stack developer on this Accenture Internal project also . I have fixed myriad bugs in this project related to client side and Server side",
+      "I worked as a React developer on this Accenture Internal project also . I have fixed myriad bugs in this project related to client side and Server side",
     tags: ["React", "Node.js", "SQL", "Tailwind", "Context API"],
     imageUrl: wordanalyticsImg,
   },
   {
     title: "CRM",
     description:
-      "I worked as a full-stack devloper on CRM Live Project AI / Machine and monitored application performance to identify potential bottlenecks, develop solutions.",
+      "I worked as a React devloper on CRM Live Project AI / Machine and monitored application performance to identify potential bottlenecks, develop solutions.",
     tags: ["React", "Node.js", "MongoDB", "Prisma", "TypeScript"],
     imageUrl: corpcommentImg,
   },
   {
     title: "OSPMC",
     description:
-      "I worked as a React developer on this project more than 1 years. I have built a medical website for clients.",
+      "Designed and built applications tailored to meet specific business requirements, ensuring alignment with project goals and client needs",
     tags: ["JavaScript", "MySQL", "HTML5/CSS3", "TypeScript"],
     //imageUrl: corpcommentImg,
     imageUrl:
