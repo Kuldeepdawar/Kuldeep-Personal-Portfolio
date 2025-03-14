@@ -62,17 +62,17 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Kuldeep Singh.</span> I'm a{" "}
-        <span className="font-bold">React Full Stack developer</span> with{" "}
-        <span className="font-bold">5+ years</span> of experience. I worked for{" "}
-        <span className="font-bold">2 years</span> with{" "}
-        <span className="font-bold">Accenture Australia</span>
-        <span className="italic"> as a Advanced Application Developer</span>. My
-        focus is{" "}
+        <span className="font-semibold">Hello, I'm Kuldeep Singh.</span> A{" "}
+        <span className="font-semibold">React Full Stack Developer</span> with{" "}
+        <span className="font-semibold">5+ years of experience</span>, including{" "}
+        <span className="font-semibold">2 years</span> at{" "}
+        <span className="font-semibold">Accenture Australia</span> as an{" "}
+        <span className="italic">Advanced Application Developer</span>. Expert
+        in{" "}
         <span className="underline">
-          (React.js, JavaScript/TypeScript, Redux, Node.js, AWS, Azure Cloud)
+          React.js, TypeScript, Redux, Next.js, Node.js, AWS
         </span>
-        .
+        , building scalable and high-performance applications.
       </motion.h1>
 
       <motion.div

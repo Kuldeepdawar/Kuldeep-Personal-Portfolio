@@ -11,35 +11,48 @@ export default function About() {
   return (
     <motion.section
       ref={ref}
-      className="mb-28 max-w-[45rem] text-center leading-8 sm:mb-40 scroll-mt-28"
-      initial={{ opacity: 0, y: 100 }}
+      className="mb-28 max-w-[50rem] text-center leading-8 sm:mb-40 scroll-mt-28"
+      initial={{ opacity: 0, y: 50 }}
       animate={{ opacity: 1, y: 0 }}
-      transition={{ delay: 0.175 }}
+      transition={{ delay: 0.2 }}
       id="about"
     >
-      <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
-        I am a Full Stack Developer with expertise in{" "}
+      <SectionHeading>About Me</SectionHeading>
+      <p className="mb-4 text-lg">
+        I am a <span className="font-semibold">React Full Stack Developer</span>{" "}
+        with a strong foundation in
         <span className="font-medium">
-          React.js, JavaScript/TypeScript, Next.js, Node.js, MongoDB,
-          PostgreSQL, AWS, and Azure Cloud
+          {" "}
+          React.js, Next.js, TypeScript, JavaScript, Node.js, MongoDB,
+          PostgreSQL, and AWS.
         </span>
-        , With a degree in Computer Science and hands-on experience from a
-        coding bootcamp, as well as projects with{" "}
+        With a degree in Computer Science, I have successfully contributed to
+        projects at
         <span className="font-medium">
-          Accenture in Sydney Transport and Samsung,
+          {" "}
+          Accenture (Sydney Transport), Samsung, and industries spanning Retail,
+          Healthcare, and Education.
         </span>
-        . <span className="italic">I’m passionate about </span> building
-        scalable, efficient{" "}
-        <span className="underline"> web applications.</span> I enjoy solving
-        complex challenges and working across the full stack to deliver
-        impactful solutions.{" "}
-        <span className="font-medium">
-          My adaptability and commitment to staying current with the latest
-          technologies enable me to thrive in fast-paced environments.{" "}
+      </p>
+
+      <p className="mb-4 text-lg">
+        <span className="italic">Passionate about building</span>{" "}
+        high-performance, scalable
+        <span className="underline"> web applications</span>, I thrive on
+        solving complex challenges and delivering impactful digital solutions.
+        My expertise spans front-end and back-end development, ensuring seamless
+        user experiences.
+      </p>
+
+      <p className="text-lg">
+        I am highly adaptable and continuously upskill to stay ahead of emerging
+        technologies. Currently, I am seeking a{" "}
+        <span className="font-semibold">React Developer role</span> where I can
+        <span className="font-bold">
+          {" "}
+          apply my expertise, drive innovation, and contribute to meaningful
+          projects.
         </span>
-        I am seeking a <span className="font-medium">React Developer role</span>{" "}
-        to apply <span className="font-bold"> my skills and grow further.</span>
       </p>
     </motion.section>
   );
