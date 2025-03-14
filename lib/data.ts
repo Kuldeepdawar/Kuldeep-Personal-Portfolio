@@ -98,15 +98,7 @@ export const projectsData = [
     title: "SCATS",
     description:
       "I worked as a Advanced App developer in this project. It has features like Client/Server Side Rendering, authenitication, Restful API and pagination etc.",
-    tags: [
-      "React",
-      "TypeScript",
-      "Next.js",
-      "ASP.Net Core",
-      "Tailwind CSS",
-      "MongoDB",
-      "GraphQL",
-    ],
+    tags: ["React", "TypeScript", "Next.js", "Tailwind CSS", "GraphQL"],
 
     imageUrl:
       "https://images.unsplash.com/photo-1473042904451-00171c69419d?q=80&w=1799&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -155,15 +147,11 @@ export const skillsData = [
   "Node.js",
   "Git",
   "Tailwind",
-  "ASP.Net Core (C#)",
   "Prisma",
   "MongoDB",
   "Redux",
   "GraphQL",
-  "Apollo",
-  "Express",
+  "CI/CD",
   "PostgreSQL",
-  "Python",
-  "Docker",
-  "Framer Motion",
+  "AWS",
 ] as const;
