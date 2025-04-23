@@ -40,10 +40,10 @@ export const experiencesData = [
     description:
       "API Development: Designed and implemented scalable RESTful APIs, using TypeScript, JavaScript (ES6+), and AWS Lambda to handle product data, user management, and order processing.",
     icon: React.createElement(FaReact),
-    date: "2023-2024",
+    date: "2023-2025",
   },
   {
-    title: "Advanced App Engineering Analyst",
+    title: "Full Stack Developer",
     location: "Accenture - Australia",
     description:
       "I worked as a React Full Stack Developer at Accenture for 2 years, handling SCATS and Samsung client projects using React, JavaScript, TypeScript, Node.js, Tailwind, Prisma, Next.js, MongoDB, MySQL, and Docker.",
