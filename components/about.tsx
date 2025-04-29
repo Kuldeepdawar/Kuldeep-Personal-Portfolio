@@ -19,40 +19,39 @@ export default function About() {
     >
       <SectionHeading>About Me</SectionHeading>
       <p className="mb-4 text-lg">
-        I am a <span className="font-semibold">React Full Stack Developer</span>{" "}
-        with a strong foundation in
+        I’m a <span className="font-semibold">Senior React Developer</span> with
+        over <span className="font-semibold">5 years of experience</span>{" "}
+        building secure, scalable, and high-performance web applications. My
+        expertise spans{" "}
         <span className="font-medium">
-          {" "}
-          React.js, Next.js, TypeScript, JavaScript, Node.js, MongoDB,
-          PostgreSQL, and AWS.
-        </span>
-        With a degree in Computer Science, I have successfully contributed to
-        projects at
+          React.js, Next.js, TypeScript, Node.js, PostgreSQL, GraphQL, and AWS.
+        </span>{" "}
+        I’ve delivered impactful full-stack solutions across domains like
+        eCommerce, transport, healthcare, and education—working with companies
+        such as{" "}
         <span className="font-medium">
-          {" "}
-          Accenture (Sydney Transport), Samsung, and industries spanning Retail,
-          Healthcare, and Education.
+          BatteryMate, Accenture (SCATS), and Samsung
         </span>
+        .
       </p>
 
       <p className="mb-4 text-lg">
-        <span className="italic">Passionate about building</span>{" "}
-        high-performance, scalable
-        <span className="underline"> web applications</span>, I thrive on
-        solving complex challenges and delivering impactful digital solutions.
-        My expertise spans front-end and back-end development, ensuring seamless
-        user experiences.
+        <span className="italic">
+          Driven by performance, accessibility, and clean code
+        </span>
+        , I specialize in full SDLC execution—from frontend architecture and
+        responsive UI design to backend APIs and cloud-native deployments. I
+        also integrate CI/CD workflows, serverless architectures, and PWA
+        features to optimize user experience and maintainability.
       </p>
 
       <p className="text-lg">
-        I am highly adaptable and continuously upskill to stay ahead of emerging
-        technologies. Currently, I am seeking a{" "}
-        <span className="font-semibold">React Developer role</span> where I can
-        <span className="font-bold">
-          {" "}
-          apply my expertise, drive innovation, and contribute to meaningful
-          projects.
-        </span>
+        I’m an <span className="font-semibold">AWS-certified developer</span>{" "}
+        and a proactive problem-solver who thrives in Agile teams. I'm currently
+        seeking a{" "}
+        <span className="font-bold">Senior React Developer opportunity</span>{" "}
+        where I can leverage my skills, collaborate cross-functionally, and
+        contribute to delivering user-focused digital products.
       </p>
     </motion.section>
   );
