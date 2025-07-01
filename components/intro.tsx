@@ -63,12 +63,11 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-semibold">Hello, I'm Kuldeep Singh.</span> A{" "}
-        <span className="font-semibold">React Full Stack Developer</span> with{" "}
+        <span className="font-semibold">Software Developer</span> with{" "}
         <span className="font-semibold">5+ years of experience</span>, including{" "}
         <span className="font-semibold">2 years</span> at{" "}
         <span className="font-semibold">Accenture Australia</span> as an{" "}
-        <span className="italic">Advanced Application Developer</span>. Expert
-        in{" "}
+        <span className="italic">Application Developer</span>. Expert in{" "}
         <span className="underline">
           React.js, TypeScript, Redux, Next.js, Node.js, AWS
         </span>
